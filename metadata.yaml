@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2825
     wikipedia: http://en.wikipedia.org/wiki/Aeschylus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14417#The-Agamemnon-of-Aeschylus--13-Translated-into-English-Rhyming-Verse-with-Explanatory-Notes
 gutenberg_bookshelf:
 - Harvard Classics
 - Classical Antiquity
